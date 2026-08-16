@@ -4,9 +4,9 @@
     Argon2 Python Implementation
 
   WIP:
-    Discord RPC
-    Better Tkinter (like ctk)
-    PQC implementations
+  -Discord RPC
+  -Better Tkinter (like ctk)
+  -PQC implementations
 
   Finished:
     AES 128 192 256 ecb cbc gcm
