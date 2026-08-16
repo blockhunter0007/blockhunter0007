@@ -1,7 +1,7 @@
 ## Projects
   Ideas:
-    Minecraft Java/Bedrock Bot
-    Argon2 Python Implementation
+   - Minecraft Java/Bedrock Bot
+   - Argon2 Python Implementation
 
   WIP:
    - Discord RPC
@@ -9,17 +9,17 @@
    - PQC implementations
 
   Finished:
-    AES 128 192 256 ecb cbc gcm
-    Diary app
-    Tkinter gui base (semi custom lib)
-    PySide6 UI Base + Plugins
-    memory lib
-    Twitch bot + Tk Stream chat
-    account system
-    Autoclicker, get active window ect, pyautogui + user32 click system
+   - AES 128 192 256 ecb cbc gcm
+   - Diary app
+   - Tkinter gui base (semi custom lib)
+   - PySide6 UI Base + Plugins
+   - memory lib
+   - Twitch bot + Tk Stream chat
+   - account system
+   - Autoclicker, get active window ect, pyautogui + user32 click system
 
 ## Open Source
-  Duplex client UI
+ - Duplex client UI
 
 If you have any requests, questions or ideas feel free to contact me
 
