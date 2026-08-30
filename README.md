@@ -41,7 +41,7 @@
   - **If you have any requests, questions or ideas please feel free to contact me.**
 
 ## Contact and socials:
-https://blockhunter0007.github.io/
+**https://blockhunter0007.github.io/**
 <!--
 **blockhunter0007/blockhunter0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
