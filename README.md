@@ -3,17 +3,17 @@ I'm a python specialised developer,
 
 
 ## Projects
-  Ideas:
+  ### Ideas:
    - Minecraft Java/Bedrock Bot
    - Argon2 Python Implementation
    - PQC implementations
    - Blake2 and Blake3 pure python implementation
 
-  WIP:
+  ### WIP:
    - Discord RPC
    - Better Tkinter (like ctk)
 
-  Finished:
+  ### Finished:
    - **AES**
      - A pure python implementation to leave the cryptography import that is verified with the official NIST vectors, dynamically generated sbox (max be hard coded soon), it supports 128 196 and 256-bit keys with the operating modes ecb cbc gcm.
    - **Diary app**
@@ -23,7 +23,7 @@ I'm a python specialised developer,
    - **PySide6 UI Base + Plugins**
      - The boilerplate for all my PySide6 Apps like the diary
    - **memory lib**
-     - A memory lib with patternscanning ect, aiming to be faster and more efficient than pymem, the pattern_scan_all is already faster du to rex scanning and compilation
+     - A memory lib with patternscanning ect, aiming to be faster and more efficient than pymem, the pattern_scan_all is already faster due to regex pattern scanning.
    - **Twitch bot + Tk Stream chat**
      - A framework to make a simple twitchbot or five deeper, a prebuilt command register @bot.command("command") and for lower level enjoyers direct @app.on_message() and @app.on_sub() ect
    - **account system**
