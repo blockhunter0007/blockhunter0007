@@ -1,5 +1,5 @@
 **Hello I'm blockhunter0007,**
-*I'm a python specialised developer, my response times may wary due to me having to do more important stuff*
+*I’m a Python-specialized developer. Response times may vary due to other commitments.*
 
 
 
