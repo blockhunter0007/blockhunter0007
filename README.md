@@ -34,7 +34,7 @@
 
 
 ## Open Source
- - **[Duplex client UI] (https://github.com/blockhunter0007/duplex-client)**
+ - **[Duplex client UI](https://github.com/blockhunter0007/duplex-client)**
 
 ## Note:
   - **All projects not in the open source section are closed source and will only be given out to chosen developers or on request.**
