@@ -31,8 +31,8 @@ I'm a python specialised developer,
    - **Autoclicker**
      - An auto clicker with optional user32 win32 and pyautogui click, capable of getting the current window executable and choosing in what app should be clicked
 
-Note:
-  All projects above are closed source and will only be given out to chosen developers or on request.
+## Note:
+  **All projects above are closed source and will only be given out to chosen developers or on request.**
 
 ## Open Source
  - Duplex client UI
