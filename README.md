@@ -35,6 +35,7 @@
 
 ## Open Source
  - **[Duplex client UI](https://github.com/blockhunter0007/duplex-client)**
+   - A simple UI for a Minecraft client that was made as a reference to use for the duplex client backend.
 
 ## Note:
   - **All projects not in the open source section are closed source and will only be given out to chosen developers or on request.**
