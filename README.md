@@ -31,14 +31,13 @@ I'm a python specialised developer,
    - **Autoclicker**
      - An auto clicker with optional user32 win32 and pyautogui click, capable of getting the current window executable and choosing in what app should be clicked
 
-## Note:
-  **All projects above are closed source and will only be given out to chosen developers or on request.**
 
 ## Open Source
  - Duplex client UI
 
-If you have any requests, questions or ideas please feel free to contact me.
-
+## Note:
+  **All projects above are closed source and will only be given out to chosen developers or on request.**
+  **If you have any requests, questions or ideas please feel free to contact me.**
 
 ## Contact and socials:
 https://blockhunter0007.github.io/
