@@ -1,5 +1,6 @@
-Hello I'm blockhunter0007,/n
-I'm a python specialised developer,
+**Hello I'm blockhunter0007,**
+*I'm a python specialised developer, my response times may wary due to me having to do more important stuff*
+
 
 
 ## Projects
