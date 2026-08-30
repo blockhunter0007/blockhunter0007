@@ -36,8 +36,8 @@ I'm a python specialised developer,
  - Duplex client UI
 
 ## Note:
-  **All projects above are closed source and will only be given out to chosen developers or on request.**
-  **If you have any requests, questions or ideas please feel free to contact me.**
+  - **All projects not in the open source section are closed source and will only be given out to chosen developers or on request.**
+  - **If you have any requests, questions or ideas please feel free to contact me.**
 
 ## Contact and socials:
 https://blockhunter0007.github.io/
