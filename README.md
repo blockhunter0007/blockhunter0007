@@ -16,7 +16,7 @@
 
   ### Finished:
    - **AES**
-     - A pure python implementation to leave the cryptography import that is verified with the official NIST vectors, dynamically generated sbox (max be hard coded soon), it supports 128 196 and 256-bit keys with the operating modes ecb cbc gcm.
+     - A pure python implementation to leave the cryptography import that is verified with the official NIST vectors, dynamically generated sbox (max be hard coded soon), it supports 128 192 and 256-bit keys with the operating modes ecb cbc gcm.
    - **Diary app**
      - A simple diary app that Encrypts data with aes, a chosen mode and bits,
    - **Tkinter gui base (semi custom lib)**
